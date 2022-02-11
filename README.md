@@ -111,6 +111,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [amir noori](https://github.com/amirnoori6454)
 - [MasMooG](https://github.com/MasuodSamarin)
 - [mhnp](https://github.com/mnakhaei)
+- [NIMZ⚡️👾](https://github.com/nimaaghasemzdeh)
 - [Farhadmpr :smirk: ](http://farhadm.ir)
 - [Farzad](https://github.com/f-a-r-z-a-d)
 - [Mohsen Haeri](https://github.com/tabib2m)

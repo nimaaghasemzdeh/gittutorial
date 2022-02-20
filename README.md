@@ -102,6 +102,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Hossein Mirazimi](https://github.com/Hossein-Mirazimi)
 - [Morteza Heydari](https://github.com/MortezaHeydari97)
 - [Reza Kargar :v::sunglasses:](https://github.com/RezaKargar)
+- [NIMA01](https://github.com/nimaaghasemzdeh)
 - [Mahdyar](https://github.com/mahdyar)
 - [Amir Mohsen](https://github.com/amirmohsen1384)
 - [sepehr](https://github.com/sepehrmizani)
